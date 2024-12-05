@@ -12,4 +12,4 @@ Scheduler: node-cron for periodic updates
 Database: In-memory storage (for simplicity)
 Testing: Postman for API testing
 
-To get the full folder structure of the project download the fooddel zip file and extract it.
+Note:To get the full folder structure of the project download the fooddel zip file and extract it.
